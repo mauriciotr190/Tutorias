@@ -191,6 +191,20 @@ section {
     line-height: 1;
 }
 
+.nota {
+    background: #FFF3CD;
+    border-left: 5px solid #D6A700;
+    border-right: 5px solid #D6A700;
+    text-align: center;
+}
+
+.nota p {
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #7A5A00;
+    line-height: 1;    
+}
+
 
 
 @media (max-width: 768px) {
